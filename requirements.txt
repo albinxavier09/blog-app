@@ -1,0 +1,11 @@
+asgiref
+autopep8
+dj-database-url
+Django
+gunicorn
+Pillow
+pycodestyle
+pytz
+sqlparse
+toml
+whitenoise
